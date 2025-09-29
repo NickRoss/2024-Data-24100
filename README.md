@@ -1,3 +1,4 @@
+# This is the 2024 Class, not the current course.
 # Software Engineering for Data Science
 
 Instructor: Nick Ross 
